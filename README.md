@@ -1,5 +1,5 @@
 # Google-Extenstion
-This a google extenstion for best competetive coding websites. it was build using html css javascript.
+This a google extension for best competitive coding websites. it was build using html css javascript.
 
 ![image](https://user-images.githubusercontent.com/73026322/188371133-514c6dcd-43dc-4a14-959e-1cb660ebdb8b.png)
 
