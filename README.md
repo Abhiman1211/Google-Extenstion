@@ -1,7 +1,7 @@
 # Google-Extenstion
-This a google extenstion for best competetive cooding websites. it was build using html css javascript.
+This a google extenstion for best competetive coding websites. it was build using html css javascript.
 
-![image](https://user-images.githubusercontent.com/73026322/188370699-d87b162e-80a1-4d94-bd1f-5e8fa6b508bb.png)
+![image](https://user-images.githubusercontent.com/73026322/188371133-514c6dcd-43dc-4a14-959e-1cb660ebdb8b.png)
 
 Contributors:
 TEAM MEMBERS
